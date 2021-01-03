@@ -1,1 +1,2 @@
-updates content re updated in branch master and commited
+after deploy.sh reupdate and commited in branch master... content re modified in stage branch
+
